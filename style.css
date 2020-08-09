@@ -61,7 +61,7 @@ ul:before {
     content: 'Quick links';
     font-family: 'Permanent Marker', cursive;
     color: rgb(28, 33, 104);
-    background-color: grey;
+    background-color: #298332;
     font-size: 18pt;
 }
 
@@ -79,7 +79,7 @@ a {
   }
   a:after {
     background: linear-gradient(to bottom, rgb(245, 233, 149), rgb(245, 233, 149)) center 1.08em/100% 2px no-repeat;
-    content: "";
+    content: "    <br/>";
     height: 100%;
     left: 0;
     position: absolute;
