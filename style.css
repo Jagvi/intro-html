@@ -79,7 +79,7 @@ a {
   }
   a:after {
     background: linear-gradient(to bottom, rgb(245, 233, 149), rgb(245, 233, 149)) center 1.08em/100% 2px no-repeat;
-    content: "    <br/>";
+    content: "    ";
     height: 100%;
     left: 0;
     position: absolute;
